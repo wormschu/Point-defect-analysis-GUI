@@ -1,38 +1,21 @@
-Brotli @ file:///D:/bld/brotli-split_1693583621767/work
 certifi==2023.7.22
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1688813409104/work
 contourpy==1.1.1
 cycler==0.11.0
-filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1694629184119/work
 fonttools==4.42.1
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
 importlib-resources==6.0.1
-Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1654302431367/work
 kiwisolver==1.4.5
-MarkupSafe @ file:///D:/bld/markupsafe_1685769253528/work
 matplotlib==3.8.0
-mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1678228039184/work
-networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1680692919326/work
-numpy @ file:///D:/bld/numpy_1694920151709/work/dist/numpy-1.26.0-cp39-cp39-win_amd64.whl#sha256=f78dfbf9fe29470ec55f11a1ef886380ee87c5796c196f346eca2471d135cf9e
-olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
 opencv-python==4.8.0.76
 packaging==23.1
-Pillow @ file:///D:/bld/pillow_1636558980741/work
 pyparsing==3.1.1
 PyQt5==5.15.9
 PyQt5-Qt5==5.15.2
 PyQt5-sip==12.12.2
-PySocks @ file:///D:/bld/pysocks_1661604991356/work
 python-dateutil==2.8.2
 PythonQwt==0.10.2
 qimage2ndarray==1.10.0
 QtPy==2.4.0
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
 six==1.16.0
-sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1684180539862/work
 torch==2.0.1
 torchvision==0.15.2
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1688315532570/work
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1689789803562/work
-win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work
 zipp==3.16.2
