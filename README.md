@@ -23,3 +23,5 @@ python dist/GUI_CPU.py
 ```
 
 ## How to use the program
+
+![image](https://github.com/wormschu/Point-defect-analysis-GUI/assets/56716689/dbff1e7c-8700-4340-920d-98487cae88c3)
