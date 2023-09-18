@@ -24,4 +24,9 @@ python dist/GUI_CPU.py
 
 ## How to use the program
 
+1. Click “Load image” to load the STEM image you want to analyze.
 ![image](https://github.com/wormschu/Point-defect-analysis-GUI/assets/56716689/dbff1e7c-8700-4340-920d-98487cae88c3)
+
+2. Press “Analysis” to run image analysis.![image](https://github.com/wormschu/Point-defect-analysis-GUI/assets/56716689/2bb5cf11-c461-40a4-a7e0-7866b5d2cfbf)
+
+3. 
