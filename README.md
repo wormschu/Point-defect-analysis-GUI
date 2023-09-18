@@ -2,6 +2,8 @@
 This is a program that finds MoTe2 point vacancy defects using pytorch-based deep learning. 
 Also, it can be used without a separate GPU power. (If you have enough CPU power)
 
+Through this program, you can quickly analyze your point defects and modify the deep learning results to complete better results.
+
 
 ## Getting started
 This program was tested for stability in Python 3.9.0 version. Therefore, we recommend using version 3.9.0.
