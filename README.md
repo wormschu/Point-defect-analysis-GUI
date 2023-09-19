@@ -43,7 +43,7 @@ If so, the green intensity graph below is drawn.![image](https://github.com/worm
 
 6. Designate a class worth comparing among the reference simulation defect classes and perform intensity profiling by comparing it to the crop unit cell image. (In this case, select VMo ![image](https://github.com/wormschu/Point-defect-analysis-GUI/assets/56716689/43e75f45-c1a6-4f34-8789-2494c925a154)
 
-7. After profiling an arbitrary crop unit cell image, you can modify the results of deep learning analysis. Below, the unit cell in question was previously perfect, but it will change when you specify a different defect class and click “Label insert” above. ![image](https://github.com/wormschu/Point-defect-analysis-GUI/assets/56716689/1e1ea8ad-4aae-402a-8d72-0261f143948b)
+7. After profiling an arbitrary crop unit cell image, you can modify the results of deep learning analysis. Below, the unit cell class was previously perfect, but it will change when you specify a different defect class and click “Label insert” above. ![image](https://github.com/wormschu/Point-defect-analysis-GUI/assets/56716689/1e1ea8ad-4aae-402a-8d72-0261f143948b)
 
 8. When all analysis is complete, click the “Save” button. Then, the image below is created in the save folder in that directory.
 ![image](https://github.com/wormschu/Point-defect-analysis-GUI/assets/56716689/d032c515-e681-4b69-ae54-424c94b7c09e)
