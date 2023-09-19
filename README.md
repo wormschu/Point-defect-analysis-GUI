@@ -1,4 +1,5 @@
-![image](https://github.com/wormschu/Point-defect-analysis-GUI/assets/56716689/79c8588a-636e-4f8f-9575-3439881ab4ed)# Point-defect-analysis-GUI
+# Point-defect-analysis-GUI
+![image](https://github.com/wormschu/Point-defect-analysis-GUI/assets/56716689/79c8588a-636e-4f8f-9575-3439881ab4ed)
 This is a program that finds MoTe2 point vacancy defects using pytorch-based deep learning. 
 Also, it can be used without a separate GPU power. (If you have enough CPU power)
 
